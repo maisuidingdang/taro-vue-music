@@ -3,6 +3,17 @@
 Git is a free software 
 
 git fix bug by issue-102
+
+main
+dev111
+dev 222
+
+parter 222
+dev 1
+dev 2
+dev 3
+dev 4
+deg 5
 ### 说明
 练习 taro-react 转为 taro-vue,在taro-music-ts基础上，非原创。
 
