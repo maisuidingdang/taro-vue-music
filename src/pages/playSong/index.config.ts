@@ -1,4 +1,4 @@
 export default {
-  navigationBarTitleText: "加载中...",
+  navigationBarTitleText: "播放",
   disableScroll: true
 };
