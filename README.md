@@ -1,5 +1,5 @@
 # taro-vue-music
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
 
 ### 说明
 练习 taro-react 转为 taro-vue,在taro-music-ts基础上，非原创。
