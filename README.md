@@ -1,6 +1,6 @@
 # taro-vue-music
-dev 
 
+Git is a free software 
 ### 说明
 练习 taro-react 转为 taro-vue,在taro-music-ts基础上，非原创。
 
