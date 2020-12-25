@@ -179,6 +179,7 @@ export default {
 <style lang="scss">
 @import "~taro-ui-vue/dist/style/variables/default.scss";
 
+
 .song_container {
   overflow: hidden;
   .song__bg {
